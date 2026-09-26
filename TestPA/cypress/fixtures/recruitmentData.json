@@ -1,0 +1,9 @@
+{
+  "url": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "username": "Admin",
+  "password": "admin123",
+  "fakeCandidate": "Zzz Xxx Qqq",
+  "jobTitle": "Payroll Administrator",
+  "vacancy": "Junior Account Assistant",
+  "status": "Application Initiated"
+}
